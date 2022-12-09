@@ -1,0 +1,24 @@
+body{
+background-color: rgb(227, 247, 210);
+color:rgb(177, 204, 154);
+}
+
+.heading{
+    color: rgb(153, 180, 134);
+    background-color: rgb(227, 247, 210);
+    width: 70%;
+    font-size: 25px;
+}
+
+#camera{
+    border: 2px rgb(255, 255, 255);
+    width: 360px;
+    height: 300px;
+}
+
+button{
+    color: rgb(135, 158, 114); 
+    background-color: rgb(179, 214, 166);
+    width: 150px;
+    height: 50px;
+}
